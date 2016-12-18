@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW_6_</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="activity_a">str_a</string>
+    <string name="activity_b">str_b</string>
+    <string name="activity_c">str_c</string>
+</resources>

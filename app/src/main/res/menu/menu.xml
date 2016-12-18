@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_idea"
+        android:orderInCategory="200"
+        android:title="Play"
+        android:icon="@drawable/ic_idea"
+        app:showAsAction="always"/>
+    <item android:id="@+id/action_stop"
+    android:orderInCategory="201"
+    android:title="Music"
+    android:icon="@drawable/ic_stop"
+    app:showAsAction="always"/>
+    <item android:id="@+id/activityA_menu_item"
+        android:title="@string/activity_a" />
+    <item android:id="@+id/activityB_menu_item"
+        android:title="@string/activity_b" />
+    <item android:id="@+id/activityC_menu_item"
+        android:title="@string/activity_c" />
+</menu>
+
